@@ -1,3 +1,4 @@
+[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=15595452&assignment_repo_type=AssignmentRepo)
 # SE_Day1
 Software Engineering Day1 Assignment
 
@@ -5,7 +6,7 @@ Software Engineering Day1 Assignment
 
 Explain what software engineering is and discuss its importance in the technology industry.
 
-software engineeringis the systematic applications of engineering principles to develope and maintain high quality software systems.
+Software engineeringis the systematic applications of engineering principles to develop and maintain high quality software systems.
 The software applications and systems developed power various modern life aspects like communication , commerce , entertainment and healthcare.
 Identify and describe at least three key milestones in the evolution of software engineering.
 1. The development of programming languages by Portan
